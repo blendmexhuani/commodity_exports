@@ -1,10 +1,5 @@
 # Commodity exports per country
 
-This project has two parts:
-
-* Wrangle & Profile
-* Model & Report
-
 The topic selected for this project is *Country*, and we will try to answer the following question:
 
 * ***How does the number of commodity exports per country relate to other country-specific parameters (e.g., population density)?***
